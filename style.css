@@ -17,3 +17,10 @@ section{
 .intro-half img{
 width: 85%;
 }
+.link-button{
+    text-decoration: none;
+    background-color: orangered;
+    padding: 10px 40px;
+    border-radius: 5px;
+    color: white; font-weight: 700;
+}
