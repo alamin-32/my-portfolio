@@ -12,14 +12,15 @@ section{
 }
 .intro-half{
     width: 50%;
+    margin-left: 4%;
     padding: 2%;
 }
 .intro-half img{
-width: 85%;
+width: 80%;
 }
 .link-button{
     text-decoration: none;
-    background-color: orangered;
+    background-image: linear-gradient(orange, tomato);
     padding: 10px 40px;
     border-radius: 5px;
     color: white; font-weight: 700;
