@@ -5,11 +5,19 @@ body{
 .font-h1{
     font-size: 50px;
 }
-.orange{
+h2{
+    color: black;
+    font-size: 600;
+}
+h3{
     color: orange;
 }
-section{
+.orange{    
+    color: orange;
+}
+.flexible-container{
     display: flex;
+    margin-bottom: 150px;
 }
 .intro-half{
     width: 50%;
@@ -35,3 +43,12 @@ width: 80%;
     background-image: url(images/dream-bg.png);
     background-repeat: no-repeat;
     background-position: right;
+}
+.experience-tab{
+    width: 40%;
+    box-shadow: 10px 10px 40px rgb(255, 68, 0);
+    margin-left: 5%;
+    margin-right: 5%;
+    padding: 15px;
+
+}
