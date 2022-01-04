@@ -2,7 +2,7 @@ body{
     font-family: 'Poppins', sans-serif;
     margin: 0;
 }
-{
+.font-h1{
     font-size: 50px;
 }
 .orange{
@@ -35,5 +35,3 @@ width: 80%;
     background-image: url(images/dream-bg.png);
     background-repeat: no-repeat;
     background-position: right;
-    
-}
